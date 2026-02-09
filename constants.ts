@@ -1,4 +1,4 @@
-import { Project, Deal, Task, Risk, AuditLogEntry, User, Subtask, ActivityLogEntry, Agency, Company, ChatMessage, TaskForReview, UserRole, Attachment, TaskTemplate, TaskConversationMessage, TaskHistoryEntry, TeamLeadSubtask, SubtaskForReview, TeamMemberOverview, Escalation, AuditAction, Session, RecentActivity, NeedsActionItem, TeamMemberReview, DetailedTeamMemberReview, Invoice, PMActionItem, DeliveryCalendarItem } from './types';
+import { Project, Deal, Task, Risk, AuditLogEntry, User, Subtask, ActivityLogEntry, Agency, Company, ChatMessage, TaskForReview, UserRole, TaskTemplate, TaskConversationMessage, TaskHistoryEntry, TeamLeadSubtask, SubtaskForReview, TeamMemberOverview, Escalation, AuditAction, Session, RecentActivity, NeedsActionItem, TeamMemberReview, DetailedTeamMemberReview, Invoice, PMActionItem, DeliveryCalendarItem } from './types';
 import { ExclamationTriangleIcon, CheckCircleIcon, CreditCardIcon, UserCircleIcon, PlayIcon, PaperAirplaneIcon, PencilSquareIcon, XCircleIcon } from './components/icons';
 
 export const userCredentials: Record<string, UserRole> = {
