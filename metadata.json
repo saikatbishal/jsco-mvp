@@ -1,0 +1,5 @@
+{
+  "name": "Project Management Dashboard",
+  "description": "A responsive project management dashboard application that allows users to view a high-level overview of projects, tasks, and financials, and drill down into a detailed project list. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
